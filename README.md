@@ -34,7 +34,7 @@ Sistema de ventas que permite registrar y consultar productos, clientes y transa
 |------|------------|-----|
 | Frontend | Angular 18 + TypeScript | Interfaz de usuario y navegación |
 | Frontend | HTML5 y CSS3 | Estructura y estilos |
-| Backend | *(escribe aquí, por ejemplo Node.js + Express)* | API y lógica de negocio |
+| Backend | Node.js + Express | API y lógica de negocio |
 | Base de datos | PostgreSQL | Almacenamiento de la información |
 | Control de versiones | Git y GitHub | Código fuente del proyecto |
 
