@@ -54,6 +54,10 @@ Sistema-de-ventas/
 └── README.md
 ```
 
+## 🖼️ Vista previa
+
+![Pantalla principal](img/1.png)
+
 ## 🚀 Cómo ejecutarlo
 
 ### Requisitos previos
