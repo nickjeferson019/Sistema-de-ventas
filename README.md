@@ -98,6 +98,6 @@ Luego abre [http://localhost:4200](http://localhost:4200) en tu navegador.
 
 ## 👤 Autor
 
-**Nick Jeferson**
+**Nick Jeferson Rivera Garces**
 
 [![GitHub](https://img.shields.io/badge/GitHub-nickjeferson019-181717?logo=github)](https://github.com/nickjeferson019)
